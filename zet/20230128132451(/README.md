@@ -15,7 +15,7 @@ maybe I want *italic* **bold** or ***bold italic***
 
 if I want `code` i put backtick (``)
 
-triple backtick formating code in a particular language (```Go) 
+triple backtick for formating code in a particular language (```Go) 
 ```Go
 package main
 
